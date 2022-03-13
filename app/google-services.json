@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909718851014",
+    "project_id": "bloodpressurediary-b6ba0",
+    "storage_bucket": "bloodpressurediary-b6ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909718851014:android:b054fe03593e27f170f6c7",
+        "android_client_info": {
+          "package_name": "ru.androidlearning.bloodpressurediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909718851014-npt9t59i19f8rebnfid0gaap03vngh83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6w-BHVHo9h4Hb9EQ9-y29oor803UjCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909718851014-npt9t59i19f8rebnfid0gaap03vngh83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

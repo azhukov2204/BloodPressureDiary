@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BloodPressureDiary</string>
+    <string name="main_fab_description">main_fab</string>
+    <string name="enter_pulse">Введите пульс</string>
+    <string name="enter_systolic">Систолическое давление</string>
+    <string name="save_button_text">OK</string>
+    <string name="pressure_format">%s  /  %s</string>
+    <string name="hearth_iv_description">hearth_iv</string>
 </resources>
